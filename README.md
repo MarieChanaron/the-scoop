@@ -1,6 +1,7 @@
 # The Scoop
 
 This is a Codecademy project. The project has been done for the "Create a Back-end App with JavaScript" skill path.
+Link to the instructions: https://www.codecademy.com/paths/create-a-back-end-app-with-javascript/tracks/bapi-javascript-objects-modules-and-browser-compatibility/modules/the-scoop/informationals/the-scoop
 Link to the project: https://mariechanaron.github.io/the-scoop/
 
 ## Project Overview
